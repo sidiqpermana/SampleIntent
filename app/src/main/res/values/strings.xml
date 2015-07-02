@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub1">Sub1Activity</string>
+    <string name="title_activity_sub2">Sub2Activity</string>
+</resources>
